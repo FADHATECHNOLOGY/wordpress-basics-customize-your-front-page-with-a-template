@@ -1,0 +1,12 @@
+/*
+Theme Name:     Tutsplus Front Page Template
+Theme URI:      http://tutplsus.com
+Description:    Theme to support tutsplus coffee break course on creating a bespoke front page. Child theme for the Twenty Sixteen theme.
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       twentysixteen
+Version:        1.0
+*/
+
+@import url("../twentysixteen/style.css");
+
